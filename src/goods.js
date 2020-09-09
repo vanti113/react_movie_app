@@ -15,7 +15,7 @@ const FormatName = ({ firstName, lastName }) => {
 
 const user = {
   firstName: "bae",
-  lastName: "Kigun",
+  lastName: "Kigun!",
 };
 
 export default Element;
