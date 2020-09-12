@@ -6,7 +6,6 @@ import El from "./goods";
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <El />
   </React.StrictMode>,
   document.getElementById("root")
 );
